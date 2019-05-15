@@ -850,6 +850,18 @@ h6 small, .h6 small, h6 .small, .h6 .small {
 - WRAPPER ----------------------------------------
 ------------------------------------------------*/
 
+#drop_zone{
+  width: 800px;
+  min-height: 100px;
+  display: block;
+  border:1px solid #000;
+}
+#drop_zone p{
+  text-align: center;
+  line-height: 50px;
+}
+
+
 #wrapper {
     position: relative;
     width: 100%;
