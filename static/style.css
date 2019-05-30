@@ -5607,6 +5607,7 @@ hr.border-fade{
 .box-account .box-account-logo{
     display: block;
     margin: 0 auto 20px;
+    width: 80px;
 }
 
 .box-account .box-account-img{
